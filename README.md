@@ -46,6 +46,7 @@ Sellega nüüd *backend* töötab. Kliendi käima saamiseks:
 Andmebaas luuakse rakendusega käivitamisega automaatselt ning sinna lisatakse ka kaks kasutajat:
 
 Kasutaja nimega **root** mille parool on **admin**
+
 Kasutaja nimega **user** mille parool on **password**
 
 Kasutajal root on juurõigused ehk saab rakenduses absoluutselt kõike teha ning kasutajal user on vaid otsimise õigus. Lisaks saab ka registreerida uusi kasutajaid ning nendega rakendust kasutada. Samas otsitavaid andmeid tööle paneku käigus automaatselt andmebaasi ei loeta vaid need tuleb käsitsi laadida.
