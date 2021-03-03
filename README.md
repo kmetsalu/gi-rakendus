@@ -1,4 +1,4 @@
-# geenivaramu-rakendus
+# geenivaramu rakendus
 
 ### Kasutatud tehnoloogiad
 
