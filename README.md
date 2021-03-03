@@ -33,7 +33,7 @@ Lisaks kui kasutaja pole kas sisse logitud või tal puudub vastav õigus mõnda 
 ### Rakenduse käima panemine
 
 Rakendus koosneb kahest suuremast osast - *backend* ja *frontend*. Et rakendus korrektselt käima saada tuleb teha järgnevad sammud:
-- **Minna backend kasuta** ja **pom.xml kaudu laadida alla vajaminevad lisad**
+- **Minna backend kasuta** ja **pom.xml kaudu laadida alla vajaminevad lisad** (IDE võib seda ka automaatselt teha)
  ![Maven install](https://i.imgur.com/U1yoDUT.png)
 - Jooksutada käsurealt **mvn clean install -DskipTests**
 - Käsuralt **cd target** ning seejärel **java -jar backend-0.0.1-SNAPSHOT.jar**
